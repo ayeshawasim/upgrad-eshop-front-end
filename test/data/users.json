@@ -1,0 +1,51 @@
+[{
+  "firstName": "Mrigank",
+  "lastName": "kashyap",
+  "email": "mrigankkashyap8@gmail.com",
+  "password": "$2b$10$sU8.oMjMEX/J.V4XZex6rOkEW2.n5rsXP4Pfcn4amKY1hOnSCJWEu",
+  "contactNumber": "6789890900",
+  "isAdmin": false,
+  "role":"user"
+},{
+  "firstName": "Ganesh",
+  "lastName": "Naik",
+  "name": "Ganesh Naik",
+  "email": "ganeshnaik@gmail.com",
+  "password": "$2b$10$Drg.zzdkhBWUKZ9bVuqUlOvQU3v7bWomWx5aDtpd8yhrTxw/rav9C",
+  "contactNumber": "9998887771",
+  "isAdmin": false,
+  "role":"user"
+},{
+  "firstName": "admin",
+  "lastName": "admin",
+  "email": "admin@upgrad.com",
+  "password":"$2b$10$Rz4htrJ0mS.9Inep8HzVZuKp35LJvZ8yh4RkopslW/KA6qNZGmhlO",
+  "contactNumber": "9898989898",
+  "isAdmin": true,
+  "role":"admin"
+},
+{
+  "firstName": "shivam",
+  "lastName": "shiv",
+  "email": "shivam@gmail.com",
+  "password": "$2b$10$TEavRu2MdanwP7DwmjS7se08QEv8v9/1Tmld/myhEPA4Sq87KEg/m",
+  "contactNumber": "8889998880",
+  "isAdmin": false,
+  "role":"user"
+},{
+  "firstName": "raman",
+  "lastName": "ram",
+  "email": "raman@gmail.com",
+  "password": "$2b$10$tIG0LcciM2GDDHEMm.R28.IMHMEdYLFFfhicjiq8Sh6bmnwtPNSoq",
+  "contactNumber": "9998887772",
+  "isAdmin": false,
+  "role":"user"
+},{
+  "firstName": "harshita",
+  "lastName": "harshi",
+  "email": "harshita@gmail.com",
+  "password": "$2b$10$5RaLKFIjD8lOo.LsYM2YTu/7Y8PeBbOcuNP4F7oTDZHX0VVfB2d8m",
+  "contactNumber": "9998887773",
+  "isAdmin": false,
+  "role":"user"
+}]
